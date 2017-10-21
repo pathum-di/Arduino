@@ -10,6 +10,7 @@ int inL2 = 10;
 
 void setup() {
   
+  //initializing the pins
   pinMode(enL, OUTPUT);
   pinMode(inL1, OUTPUT);
   pinMode(inL2, OUTPUT);
